@@ -1,7 +1,8 @@
-export default function Home() {
+"use client"
+export default function Loading() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div>Homepage</div>
+      Loading...
     </main>
   )
 }
