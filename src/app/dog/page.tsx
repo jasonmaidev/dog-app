@@ -1,7 +1,7 @@
 import Image from "next/image"
 
 const getOneRandomDogImage = async () => {
-  const res = await fetch(`https://dog.ceo/api/breeds/image/random`, { next: { revalidate: 1 } })
+  const res = await fetch(`https://dog.ceo/api/breeds/image/random`, { cache: "no-store" })
   return res.json()
 }
 
