@@ -16,7 +16,7 @@ export default function Card() {
         width={224}
         height={224}
         className="rounded-xl" />
-      <div className="max-w-md text-yellow-950 font-bold">
+      <div className="max-w-sm text-yellow-950 font-bold">
         <p>{stool.explanation}</p>
       </div>
     </main>
