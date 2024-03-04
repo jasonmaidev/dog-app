@@ -13,7 +13,7 @@ export default function About() {
           </span>
         </p>
         <p>
-          Don't mind me. I'm just playing around with the new server components architecture in Next 14 and autocomplete
+          Do not mind me. I am just playing around with the new server components architecture in Next 14 and autocomplete
           using the awesome Codeium Ai vscode extension.
         </p>
       </div>
