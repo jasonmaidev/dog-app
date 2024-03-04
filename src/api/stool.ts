@@ -23,13 +23,13 @@ export const stoolData: {
     imageUrl: "/poo/poo4.png",
     description: "Large, soft log, soggy, smelly",
     explanation:
-      "Generally seen in pets eating a processed diet with starches and carbohydrates which are properly absorbed by the system.",
+      "Generally seen in pets eating a processed diet with starches and carbohydrates which are not properly absorbed by the system.",
   },
   {
     imageUrl: "/poo/poo5.png",
     description: "Large, sloppy, smelly",
     explanation:
-      "Generally seen in pets eating a processed diet with starches and carbohydrates which are properly absorbed by the system.",
+      "Generally seen in pets eating a processed diet with starches and carbohydrates which are not properly absorbed by the system.",
   },
   {
     imageUrl: "/poo/poo6.png",
