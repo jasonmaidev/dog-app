@@ -4,43 +4,43 @@ export const stoolData: {
   explanation: string;
 }[] = [
   {
-    imageUrl: "/stool/1.jpg",
-    description: "Tulip-shaped",
+    imageUrl: "/poo/poo1.png",
+    description: "Hard, dry pellets",
     explanation:
-      "A stool with a tulip-shaped backrest, often made of leather or vinyl.",
+      "Requires effort to expel, sign of constipation. Often a sign of insufficient fluid intake as well as too much or too little fiber.",
   },
   {
-    imageUrl: "/stool/2.jpg",
-    description: "Cylindrical",
+    imageUrl: "/poo/poo2.png",
+    description: "Firm, moist, with only mild odor",
+    explanation: "Normal healthy poo! You're doing great!",
+  },
+  {
+    imageUrl: "/poo/poo3.png",
+    description: "Moist, log shaped, maintains shape",
+    explanation: "Normal healthy poo! You're doing great!",
+  },
+  {
+    imageUrl: "/poo/poo4.png",
+    description: "Large, soft log, soggy, smelly",
     explanation:
-      "A stool with a cylindrical shape, often made of wood or plastic.",
+      "Generally seen in pets eating a processed diet with starches and carbohydrates which are properly absorbed by the system.",
   },
   {
-    imageUrl: "/stool/3.jpg",
-    description: "U-shaped",
+    imageUrl: "/poo/poo5.png",
+    description: "Large, sloppy, smelly",
     explanation:
-      'A stool with a curved back that forms an "U" shape, often made of metal or plastic.',
+      "Generally seen in pets eating a processed diet with starches and carbohydrates which are properly absorbed by the system.",
   },
   {
-    imageUrl: "/stool/4.jpg",
-    description: "Boat-shaped",
+    imageUrl: "/poo/poo6.png",
+    description: "Diarrhoea",
     explanation:
-      "A stool with a boat-shaped back, often made of leather or fabric.",
+      "Your dog may be feeling unwell or ate something to upset their tummy. Monitor closely if it persists for 12 hours.",
   },
   {
-    imageUrl: "/stool/5.jpg",
-    description: "Houndstooth-patterned",
+    imageUrl: "/poo/poo7.png",
+    description: "Watery diarrhoea",
     explanation:
-      "A stool with a houndstooth pattern on the seat or back, often made of leather or fabric.",
-  },
-  {
-    imageUrl: "/stool/6.jpg",
-    description: "Flat-bottomed",
-    explanation: "A stool with a flat bottom, often made of metal or plastic.",
-  },
-  {
-    imageUrl: "/stool/7.jpg",
-    description: "Round",
-    explanation: "A stool with a round back, often made of wood or plastic.",
+      "May be a sign of stress or infection. Monitor very closely. Seek veterinary advice if persistent.",
   },
 ];
