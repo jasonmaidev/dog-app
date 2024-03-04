@@ -10,7 +10,7 @@ export default function Navbar() {
     router.push('/')
     setTimeout(() => {
       window.location.reload();
-    }, 400);
+    }, 700);
   }
 
   return <div className="p-8 gap-4 md:gap-8 flex flex-row justify-center items-center space-around">
