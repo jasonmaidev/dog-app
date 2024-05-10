@@ -27,7 +27,7 @@ export default function Navbar() {
       href="/about"
       className="py-4 px-8 border-4 border-solid hover:text-yellow-950 hover:border-yellow-950 border-yellow-900 text-yellow-900 rounded-full font-bold"
     >
-      About
+      Aboot
     </Link>
   </div >
 }
