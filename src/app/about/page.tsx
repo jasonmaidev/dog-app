@@ -14,7 +14,10 @@ export default function About() {
         </p>
         <p>
           Do not mind me. I am just playing around with the new server components architecture in Next 14 and autocomplete
-          using the awesome Codeium Ai vscode extension.
+          using the awesome Codeium Ai vscode extension. App was built and deployed in 2 hours.
+        </p>
+        <p>
+          © 2024 <a href="https://www.jasonmai.dev" target="_blank" rel="noopener noreferrer">JasonMaiDev</a>
         </p>
       </div>
     </main>
